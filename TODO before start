@@ -1,0 +1,3 @@
+cd Desktop
+cd learning-flask
+source venv/bin/activate
